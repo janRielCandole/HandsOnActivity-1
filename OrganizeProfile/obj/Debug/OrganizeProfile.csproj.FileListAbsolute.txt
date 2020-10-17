@@ -1,0 +1,10 @@
+C:\Users\63939\source\repos\OrganizeProfile\OrganizeProfile\bin\Debug\OrganizeProfile.exe.config
+C:\Users\63939\source\repos\OrganizeProfile\OrganizeProfile\bin\Debug\OrganizeProfile.exe
+C:\Users\63939\source\repos\OrganizeProfile\OrganizeProfile\bin\Debug\OrganizeProfile.pdb
+C:\Users\63939\source\repos\OrganizeProfile\OrganizeProfile\obj\Debug\OrganizeProfile.csprojAssemblyReference.cache
+C:\Users\63939\source\repos\OrganizeProfile\OrganizeProfile\obj\Debug\OrganizeProfile.frmRegistration.resources
+C:\Users\63939\source\repos\OrganizeProfile\OrganizeProfile\obj\Debug\OrganizeProfile.Properties.Resources.resources
+C:\Users\63939\source\repos\OrganizeProfile\OrganizeProfile\obj\Debug\OrganizeProfile.csproj.GenerateResource.cache
+C:\Users\63939\source\repos\OrganizeProfile\OrganizeProfile\obj\Debug\OrganizeProfile.csproj.CoreCompileInputs.cache
+C:\Users\63939\source\repos\OrganizeProfile\OrganizeProfile\obj\Debug\OrganizeProfile.exe
+C:\Users\63939\source\repos\OrganizeProfile\OrganizeProfile\obj\Debug\OrganizeProfile.pdb
