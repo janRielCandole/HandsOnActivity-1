@@ -52,7 +52,7 @@
             // 
             // txtStudentNo
             // 
-            this.txtStudentNo.Location = new System.Drawing.Point(149, 137);
+            this.txtStudentNo.Location = new System.Drawing.Point(170, 139);
             this.txtStudentNo.Name = "txtStudentNo";
             this.txtStudentNo.Size = new System.Drawing.Size(186, 22);
             this.txtStudentNo.TabIndex = 0;
@@ -60,14 +60,14 @@
             // 
             // txtLastName
             // 
-            this.txtLastName.Location = new System.Drawing.Point(149, 185);
+            this.txtLastName.Location = new System.Drawing.Point(171, 185);
             this.txtLastName.Name = "txtLastName";
             this.txtLastName.Size = new System.Drawing.Size(190, 22);
             this.txtLastName.TabIndex = 1;
             // 
             // txtAge
             // 
-            this.txtAge.Location = new System.Drawing.Point(149, 237);
+            this.txtAge.Location = new System.Drawing.Point(170, 236);
             this.txtAge.Name = "txtAge";
             this.txtAge.Size = new System.Drawing.Size(100, 22);
             this.txtAge.TabIndex = 2;
@@ -96,6 +96,7 @@
             this.cbPrograms.Name = "cbPrograms";
             this.cbPrograms.Size = new System.Drawing.Size(282, 24);
             this.cbPrograms.TabIndex = 4;
+            this.cbPrograms.SelectedIndexChanged += new System.EventHandler(this.cbPrograms_SelectedIndexChanged);
             // 
             // txtFirstName
             // 
@@ -106,9 +107,9 @@
             // 
             // txtMiddleInitial
             // 
-            this.txtMiddleInitial.Location = new System.Drawing.Point(712, 188);
+            this.txtMiddleInitial.Location = new System.Drawing.Point(731, 188);
             this.txtMiddleInitial.Name = "txtMiddleInitial";
-            this.txtMiddleInitial.Size = new System.Drawing.Size(61, 22);
+            this.txtMiddleInitial.Size = new System.Drawing.Size(42, 22);
             this.txtMiddleInitial.TabIndex = 6;
             // 
             // cbGender
@@ -156,7 +157,7 @@
             this.label2.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(12, 137);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(131, 23);
+            this.label2.Size = new System.Drawing.Size(152, 23);
             this.label2.TabIndex = 11;
             this.label2.Text = "Student No.";
             // 
@@ -164,7 +165,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(24, 188);
+            this.label3.Location = new System.Drawing.Point(40, 188);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(98, 23);
             this.label3.TabIndex = 12;
@@ -203,7 +204,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(376, 186);
+            this.label7.Location = new System.Drawing.Point(367, 185);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(109, 23);
             this.label7.TabIndex = 16;
@@ -223,7 +224,7 @@
             this.label9.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.Location = new System.Drawing.Point(663, 187);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(46, 23);
+            this.label9.Size = new System.Drawing.Size(62, 23);
             this.label9.TabIndex = 18;
             this.label9.Text = "M.I";
             // 
